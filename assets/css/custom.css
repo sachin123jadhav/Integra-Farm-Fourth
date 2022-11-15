@@ -1,0 +1,16 @@
+.banner form input[type="submit"]{background-color:#0066ab;}
+
+.banner{color: #fff; height: 60vh;display: flex;
+  align-items: center;}
+  .btn-info{ background-color: #0066ab; border-color: #0066ab; color: #fff;}
+  .trade-list{color: #000; font-weight: 900;}
+  .trade-list span.down, .trade-list span.up, .trade-list .up, .trade-list .down{  font-weight: 600;}
+  .trade-list span.down, .trade-list .down{ color: #e03a3c;}
+  .trade-list span.up, .trade-list .up{ color: #047509;}
+  .services .icon-box p,.services .icon-box h4{margin-left: 0;color: #0066ab;}
+  .services .icon-box h4 a{color: #0066ab;}
+  .services .icon-box{ background-color: #fff;box-shadow: 0px 20px 45px 0px rgba(0, 0, 0, 0.05);}
+  .services img{margin-bottom: 25px;}
+  .services .icon-box p{font-size: 16px;}
+
+  .services .icon-box:hover h4 a, .services .icon-box:hover p{color: #fff;}
